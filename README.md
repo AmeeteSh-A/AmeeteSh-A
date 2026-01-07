@@ -13,6 +13,6 @@ Reach out @<br>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <br/><br/>
-**Current Work**<br>
+**Current Work** <br>
 👇🏼👇🏼
 </div>
