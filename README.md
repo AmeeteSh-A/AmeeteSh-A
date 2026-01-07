@@ -1,17 +1,22 @@
-## Hiiee 
-# hello
+<div align="center">
 
-<!--
-**AmeeteSh-A/AmeeteSh-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ameetesh Awadh
 
-Here are some ideas to get you started:
+Computer Science @ South Asian University (2028).<br>
+Focusing on **Android Internals**, **Compiler Tooling**, and **Game Mechanics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach out @<br>
+<a href="mailto:ameeteshawadh@gmail.com">ameeteshawadh@gmail.com</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ameetesh">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+**Current Work**<br>
+👇🏼👇🏼
+
+</div>
